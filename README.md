@@ -19,6 +19,9 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=meredithyan
 ## My Personal Blog
 [CSDN](https://blog.csdn.net/meredithyan)
 
+[JueJinBlog 掘金社区](https://juejin.cn/user/4385301349803197)
+
+
 ## 🔭 All
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=meredithyan&show_icons=true&theme=radical)
