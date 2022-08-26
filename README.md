@@ -21,6 +21,8 @@ Hi there ![Profile View Counter](https://komarev.com/ghpvc/?username=meredithyan
 
 [JueJinBlog 掘金社区](https://juejin.cn/user/4385301349803197)
 
+[Gitee](https://gitee.com/victorianalbert)
+
 
 ## 🔭 All
 
